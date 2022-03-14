@@ -1,2 +1,3 @@
-# Kickstarter-Challenge1
-First project
+# Analysis of Kickstarter-Challenge1
+## Overview of Kickstarter Challenge-1
+### 
