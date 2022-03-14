@@ -36,7 +36,7 @@ https://github.com/Dhawan31/Kickstarter-Challenge1/blob/main/Outcome_vs_Goals%20
   1. We could create table based on the Currency and country for the outcome.
   2. We could aslo create a table based on how much money was pledged vs how much the goal reached in a period of time for category of plays.
   
-  ## For graphs
+  ### For graphs
   We could create a bar graph for ease of understanding we can create a stacked bar graph for outcomes based on goals.
  
 
