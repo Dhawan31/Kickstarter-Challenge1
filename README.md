@@ -7,11 +7,13 @@ This project goes over the dataset to check how different campaigns performed in
 The analysis was done by creating the line charts. The first line chart represents the Theatre outcomes based on the launch date which gives us information about how campaigns performed in theatres depending on the launch date. 
 
 **Analysis of Outcomes Based On Launch date**
+
 https://github.com/Dhawan31/Kickstarter-Challenge1/blob/main/Theater_Outcomes_vs_launch.png
 
 The Second line chart shows  what was the percentage of the outcomes based on goals.
 
-**Analysis of outcomes Based on Goals **
+**Analysis of outcomes Based on Goals**
+
 https://github.com/Dhawan31/Kickstarter-Challenge1/blob/main/Outcome_vs_Goals%20.png
 
 ### Challenges and difficulties encountered
